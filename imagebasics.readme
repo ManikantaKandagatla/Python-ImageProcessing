@@ -1,0 +1,17 @@
+1. Download Python 2.7
+2. Install sqlite3, opencv-python, ipython packages from pycharm editor or pip commandline
+
+Installing packages from Pycharm IDE
+a. Project > settings> pythonIntrepretor
+b. Lists all the packages installed for the current intrepretor
+c. Click on  "+" button on the top right corner to install new package
+d. Search for desired package and click install package
+
+Installting packages from pip commandline
+a. python -m pip install <package name>
+
+Installing packages from dist files available online
+a. Unzip the source and run install.py or setup.py depending on the package
+
+Note: Some pacakages need VC++ distribution dependencies inorder to install those pacakges. Install distributions accordingly depending on the version of windows system
+I work on windows 8 and windows 10 OS 
